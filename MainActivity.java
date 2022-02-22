@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
 }
 public static void main(String args[]){
     System.out.println("Hungry");
+    System.out.println("Hungry");
+}
+
 }
